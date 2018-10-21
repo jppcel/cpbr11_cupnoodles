@@ -1,6 +1,6 @@
-# [CPBR11 - Cup Noodles Chalenge](https://github.com/jppcel/cpbr11_cupnoodles)
+# [CPBR11 - Cup Noodles](https://github.com/jppcel/cpbr11_cupnoodles)
 
-Código que foi utilizado no desafio da Cup Noodles da CPBR11.
+Código que foi utilizado no projeto oferecido à Cup Noodles dentro da CPBR11.
 
 created by [jppcel](https://github.com/jppcel)
 
